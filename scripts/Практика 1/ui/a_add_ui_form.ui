@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1199</width>
-    <height>834</height>
+    <width>1092</width>
+    <height>788</height>
    </rect>
   </property>
   <property name="sizePolicy">
@@ -55,8 +55,8 @@
         <rect>
          <x>0</x>
          <y>0</y>
-         <width>1199</width>
-         <height>783</height>
+         <width>1092</width>
+         <height>747</height>
         </rect>
        </property>
        <layout class="QVBoxLayout" name="verticalLayout_2">
@@ -89,7 +89,7 @@
            </font>
           </property>
           <property name="currentIndex">
-           <number>1</number>
+           <number>0</number>
           </property>
           <widget class="QWidget" name="tab">
            <attribute name="title">
@@ -253,15 +253,15 @@
                  </size>
                 </property>
                 <property name="currentIndex">
-                 <number>1</number>
+                 <number>0</number>
                 </property>
                 <widget class="QWidget" name="page">
                  <property name="geometry">
                   <rect>
                    <x>0</x>
                    <y>0</y>
-                   <width>195</width>
-                   <height>178</height>
+                   <width>526</width>
+                   <height>520</height>
                   </rect>
                  </property>
                  <attribute name="label">
@@ -387,8 +387,8 @@
                   <rect>
                    <x>0</x>
                    <y>0</y>
-                   <width>472</width>
-                   <height>453</height>
+                   <width>526</width>
+                   <height>520</height>
                   </rect>
                  </property>
                  <attribute name="label">
@@ -416,8 +416,8 @@ p, li { white-space: pre-wrap; }
                   <rect>
                    <x>0</x>
                    <y>0</y>
-                   <width>109</width>
-                   <height>109</height>
+                   <width>526</width>
+                   <height>520</height>
                   </rect>
                  </property>
                  <attribute name="label">
@@ -438,8 +438,8 @@ p, li { white-space: pre-wrap; }
                   <rect>
                    <x>0</x>
                    <y>0</y>
-                   <width>510</width>
-                   <height>318</height>
+                   <width>526</width>
+                   <height>520</height>
                   </rect>
                  </property>
                  <attribute name="label">
@@ -1857,8 +1857,8 @@ p, li { white-space: pre-wrap; }
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>1199</width>
-     <height>26</height>
+     <width>1092</width>
+     <height>21</height>
     </rect>
    </property>
    <widget class="QMenu" name="menu">
@@ -1900,8 +1900,6 @@ p, li { white-space: pre-wrap; }
    </property>
   </action>
  </widget>
- <resources>
-  <include location="../../res/MyResources.qrc"/>
- </resources>
+ <resources/>
  <connections/>
 </ui>
